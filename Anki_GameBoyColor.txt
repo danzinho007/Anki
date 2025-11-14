@@ -1,0 +1,10 @@
+﻿O que é o Game Boy Color?; Console portátil lançado pela Nintendo em 1998, sendo a versão sucessora do Game Boy original, com suporte a jogos coloridos.
+Qual era o processador do Game Boy Color?;O Processador Sharp LR35902, baseado na arquitetura do Z80, rodando a 8 MHz.
+Quantas cores simultâneas o Game Boy Color podia exibir na tela?;Até 56 cores simultâneas de uma paleta de 32.768 cores.
+O Game Boy Color era retrocompatível?;Sim
+Qual era a resolução da tela do Game Boy Color?;É de 160x144 pixels.
+Quantos botões de controle o Game Boy Color tinha?;8 botões: A, B, Start, Select, direcional (Cima, Baixo, Esquerda, Direita) e o botão Power.
+Qual era a capacidade máxima de armazenamento dos cartuchos de jogos do Game Boy Color?;Capacidade máxima de até 8 MB (megabytes).
+O Game Boy Color tinha som estéreo?;Não, o Game Boy Color tinha som mono, mas suportava som estéreo quando conectado a fones de ouvido.
+Quantas pilhas o Game Boy Color utilizava e qual era sua duração média?;2 pilhas AA, com duração média de 10 a 20 horas de jogo.
+Qual era o diferencial do Game Boy Color em relação ao Game Boy original?;O principal diferencial do Game Boy Color era a capacidade de exibir gráficos em cores e processar jogos mais avançados.

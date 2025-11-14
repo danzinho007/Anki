@@ -1,0 +1,10 @@
+﻿Qual é o objetivo principal do jogo de xadrez?	Dar xeque-mate no rei adversário.
+Quantas casas tem um tabuleiro de xadrez?	64 casas (8x8).
+Como se chama o movimento especial em que o rei e uma torre trocam de posição?	Roque.
+Quantos movimentos diferentes pode fazer um peão na sua primeira jogada?	Dois movimentos (avançar uma ou duas casas para frente).
+Como um peão pode capturar outra peça?	Na diagonal, uma casa à frente.
+Qual peça pode pular sobre outras peças durante seu movimento?	O cavalo.
+Quais são os nomes das peças de xadrez e quantas de cada uma existem no início da partida?	Rei (1), Dama (1), Torres (2), Bispos (2), Cavalos (2), Peões (8) por jogador.
+Em que situação ocorre o xeque?	Quando o rei está sob ataque direto de uma peça adversária.
+O que significa uma partida terminar em "afogamento"?	É empate quando o jogador, sem estar em xeque, não tem movimentos legais possíveis.
+Qual é a diferença entre "xeque" e "xeque-mate"?	Xeque é um ataque ao rei que ainda pode ser evitado, enquanto xeque-mate significa que o rei está em xeque sem defesa possível.

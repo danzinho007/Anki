@@ -1,0 +1,11 @@
+
+1-O que significa : #include <snes.h> ?
+2-O que significa : extern char tilfont, palfont; ?
+3-O que significa : consoleInit(); ?
+4-O que significa : consoleSetTextVramBGAdr(0x6800); ?
+5-O que significa : consoleSetTextVramAdr(0x3000); ?
+6-O que significa : consoleSetTextOffset(0x0100); ?
+7-O que significa : onsoleInitText(0, 16 * 2, &tilfont, &palfont);
+8-O que significa : bgSetGfxPtr(0, 0x2000); ?
+9-O que significa : bgSetMapPtr(0, 0x6800, SC_32x32); ?
+10-O que significa :  setMode(BG_MODE1, 0); ?

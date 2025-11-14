@@ -1,0 +1,10 @@
+﻿O que é Assembly?;Assembly é uma linguagem de baixo nível que se comunica diretamente com o hardware, servindo como um intermediário entre o código binário da máquina e linguagens de alto nível.
+O que é um registrador em Assembly?;Um registrador é uma pequena área de armazenamento dentro da CPU usada para armazenar dados temporários durante a execução de instruções.
+Qual é a diferença entre linguagem de máquina e Assembly?;A linguagem de máquina é composta por códigos binários que o processador entende diretamente, enquanto o Assembly é uma representação textual desses códigos, mais compreensível para humanos.
+Para que serve a instrução MOV em Assembly?;A instrução MOV é usada para transferir dados de um local para outro, como entre registradores ou entre memória e registradores.
+O que significa a instrução ADD em Assembly?;A instrução ADD realiza a soma de dois valores e armazena o resultado em um registrador.
+Qual é a função da instrução JMP?;A instrução JMP realiza um salto incondicional para outro ponto do código, alterando o fluxo de execução.
+O que é o segmento de código (code segment) em Assembly?;É uma área de memória destinada a armazenar as instruções do programa que estão sendo executadas.
+Qual é o propósito da instrução CMP?;A instrução CMP compara dois valores e ajusta os flags da CPU com base no resultado, sem alterar os valores comparados.
+O que são flags no contexto de Assembly?;Flags são bits no registrador de status da CPU que indicam o resultado de operações, como zero, carry, overflow, entre outros.
+O que é um assembler?;Um assembler é um programa que traduz código Assembly em linguagem de máquina, gerando um arquivo executável.
