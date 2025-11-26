@@ -4,4 +4,5 @@ Anki_Novidades
 2-Preciso voltar a baixar
 3-Site 
 https://apps.ankiweb.net/
-4-
+4-Sincronizando com o pc
+5-
